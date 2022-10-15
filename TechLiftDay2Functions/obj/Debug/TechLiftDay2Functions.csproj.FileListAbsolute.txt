@@ -1,0 +1,8 @@
+C:\Users\ali.arshad\source\repos\TechLiftDay2Functions\TechLiftDay2Functions\bin\Debug\TechLiftDay2Functions.exe.config
+C:\Users\ali.arshad\source\repos\TechLiftDay2Functions\TechLiftDay2Functions\bin\Debug\TechLiftDay2Functions.exe
+C:\Users\ali.arshad\source\repos\TechLiftDay2Functions\TechLiftDay2Functions\bin\Debug\TechLiftDay2Functions.pdb
+C:\Users\ali.arshad\source\repos\TechLiftDay2Functions\TechLiftDay2Functions\obj\Debug\TechLiftDay2Functions.csproj.AssemblyReference.cache
+C:\Users\ali.arshad\source\repos\TechLiftDay2Functions\TechLiftDay2Functions\obj\Debug\TechLiftDay2Functions.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali.arshad\source\repos\TechLiftDay2Functions\TechLiftDay2Functions\obj\Debug\TechLiftDay2Functions.csproj.CoreCompileInputs.cache
+C:\Users\ali.arshad\source\repos\TechLiftDay2Functions\TechLiftDay2Functions\obj\Debug\TechLiftDay2Functions.exe
+C:\Users\ali.arshad\source\repos\TechLiftDay2Functions\TechLiftDay2Functions\obj\Debug\TechLiftDay2Functions.pdb
